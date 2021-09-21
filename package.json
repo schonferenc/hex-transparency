@@ -1,0 +1,29 @@
+{
+  "name": "hex-transparency",
+  "version": "1.0.0",
+  "description": "From an object that contains hexadecimal color codes, it creates a new object that contains the color codes in the original object and its transparent versions. Only suitable for converting hexadecimal color codes.",
+  "main": " the TailwindCss plugin.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schonferenc/hex-transparency.git"
+  },
+  "keywords": [
+    "hex",
+    "hex",
+    "hexadecimal",
+    "transparent",
+    "transparency",
+    "tailwind",
+    "generate",
+    "object"
+  ],
+  "author": "schonferenc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schonferenc/hex-transparency/issues"
+  },
+  "homepage": "https://github.com/schonferenc/hex-transparency#readme"
+}
